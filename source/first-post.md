@@ -1,6 +1,6 @@
 ```
 title: はじめての記事
-data: 2022
+date: 2022-02-23
 tags: ["sample", "tutorial"]
 excerpt: これは抜粋
 ```
